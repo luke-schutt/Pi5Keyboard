@@ -1,0 +1,9 @@
+.ds_store
+
+.*.swp
+
+*-backups
+fp-info-cache
+*.gbr
+*.gbrjob
+*.drl
