@@ -150,7 +150,7 @@
   (net 73 "Net-(D40-Pad2)")
   (net 74 "GND")
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 009a4c33-70f2-4502-a740-e77557dfa650)
     (at 220.721293 112.470396 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -186,7 +186,7 @@
       (net 32 "Net-(D29-Pad2)") (pinfunction "A") (pintype "passive") (tstamp f8a8cb51-c5f9-4fbe-8837-2b07b36a10b2))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 0360f8f1-b70e-4fa3-8b87-cdaadbca6a7f)
     (at 242.180675 128.6412 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -248,7 +248,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp c1e51924-fbc7-41d6-8c8a-28a364000b07))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 0654c343-5b39-49d4-be62-013458849de3)
     (at 80.449106 133.930489 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -284,7 +284,7 @@
       (net 36 "Net-(D33-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 4d03f3a4-92e8-4500-8047-9560eafa0a85))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 0a4f26bb-cad6-4392-88c6-36d93dad22aa)
     (at 201.906199 115.114685 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -320,7 +320,7 @@
       (net 31 "Net-(D28-Pad2)") (pinfunction "A") (pintype "passive") (tstamp ff28e22f-4110-4855-94a9-eab2b511556d))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 0bd981c7-326b-4458-a65e-f600583f4176)
     (at 108.671746 137.896922 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -364,7 +364,7 @@
       (net 38 "Net-(D35-Pad2)") (pinfunction "2") (pintype "passive") (tstamp f184f8fb-4797-4d03-9449-14f9aa6bfe9e))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 12343ad8-48d1-47e6-83c3-7d751c221487)
     (at 41.344239 70.874486 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -408,7 +408,7 @@
       (net 2 "Net-(D1-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 31d8cef3-bea4-4af2-8e97-da1e312f146c))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 12978dd3-158f-4649-b64d-9a1b9051349a)
     (at 208.669457 94.977447 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -452,7 +452,7 @@
       (net 20 "Net-(D18-Pad2)") (pinfunction "2") (pintype "passive") (tstamp a7ec63a8-7ff9-406a-93ce-6de025a8cec5))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 1414e4a3-19e0-4d80-93a2-4f105a94bfc0)
     (at 213.958035 132.607633 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -522,7 +522,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp 31a719c3-eb59-41fd-b3f4-c8dc34e32b64))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 19311849-65d6-4d78-a0bf-c537be31798d)
     (at 236.892097 91.011013 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -558,7 +558,7 @@
       (net 22 "Net-(D20-Pad2)") (pinfunction "A") (pintype "passive") (tstamp f1d52d7a-715f-4ea2-a925-3ec36adb3898))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 212b6dee-a930-45f4-acd3-58a3faf4d802)
     (at 230.128839 111.148251 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -602,7 +602,7 @@
       (net 32 "Net-(D29-Pad2)") (pinfunction "2") (pintype "passive") (tstamp f9488b0b-f340-4cfe-92d1-9c8b8f3f4f76))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 2475fcd3-5491-433e-9038-b4c381519d17)
     (at 57.515044 92.333869 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -646,7 +646,7 @@
       (net 14 "Net-(D12-Pad2)") (pinfunction "2") (pintype "passive") (tstamp dff19870-06b3-472c-986b-4c07c9749783))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 256f60f6-e6d0-4ca5-8dd2-73a02ab98a6c)
     (at 168.394981 81.450931 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -690,7 +690,7 @@
       (net 7 "Net-(D6-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 99502963-e53b-4630-a85e-78040f03a425))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 272ac642-ffc3-40c6-a006-045cd497c208)
     (at 101.908488 117.759684 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -726,7 +726,7 @@
       (net 27 "Net-(D24-Pad2)") (pinfunction "A") (pintype "passive") (tstamp b9a79b72-1c6e-4cbc-997d-e54f7781c008))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 29bc71f5-a1a1-4d83-aa94-1e53afa1f045)
     (at 83.093395 115.115395 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -762,7 +762,7 @@
       (net 26 "Net-(D23-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 6ec645ae-4cb0-48f5-917e-42f8628e49ce))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 2ce08f20-20ca-4aad-aba6-02c7b2cf1607)
     (at 185.735395 136.574067 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -798,7 +798,7 @@
       (net 40 "Net-(D37-Pad2)") (pinfunction "A") (pintype "passive") (tstamp e87df59b-eff0-4dec-a3eb-44c1c30dc0c6))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 3048913e-4dc4-4e3d-a457-d0ea9d512580)
     (at 180.446817 98.94388 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -834,7 +834,7 @@
       (net 19 "Net-(D17-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 4266a4d3-3962-4d98-b378-4fba0f3da07c))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 31167cfe-f6e1-4af9-887f-82625b27fb90)
     (at 120.723581 120.403973 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -870,7 +870,7 @@
       (net 28 "Net-(D25-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 88c2ea6d-96a4-44a7-af7f-e8791b14f04e))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 3be1cf3c-e1f4-4288-b859-3771f866198a)
     (at 177.802528 80.128787 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -906,7 +906,7 @@
       (net 8 "Net-(D7-Pad2)") (pinfunction "A") (pintype "passive") (tstamp f7c9f419-9738-4d11-887c-14eda00658a7))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 3c3c647c-061c-464a-8add-995f073c6824)
     (at 206.025168 76.162354 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -950,7 +950,7 @@
       (net 9 "Net-(D8-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 25a08b5f-4053-4b9b-b527-e078076abf86))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 40a5f51d-dab7-4da0-b964-677f990f4531)
     (at 199.26191 96.299591 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -1038,7 +1038,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp 6d8ebf59-3b41-4319-9333-0051c765cd0d))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 474a8404-9a56-4735-8988-be2ff02417b8)
     (at 99.264199 136.574777 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -1074,7 +1074,7 @@
       (net 37 "Net-(D34-Pad2)") (pinfunction "A") (pintype "passive") (tstamp dfe84a72-7c99-4b9c-a3c3-46d7da20d1cf))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 49164ac4-84e1-407e-ac58-22276cc155de)
     (at 227.48455 92.333158 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -1118,7 +1118,7 @@
       (net 21 "Net-(D19-Pad2)") (pinfunction "2") (pintype "passive") (tstamp c3ece6ec-b493-4b66-ab4c-06789d692ac9))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 4acf55bd-23c2-4e41-bc4e-335c61dd8567)
     (at 118.079292 139.219066 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -1154,7 +1154,7 @@
       (net 38 "Net-(D35-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 9f079763-7f90-45cf-85de-aa6feb161ba8))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 4c2027d7-401d-40aa-9558-bd7747a36acd)
     (at 246.299644 89.688869 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -1198,7 +1198,7 @@
       (net 22 "Net-(D20-Pad2)") (pinfunction "2") (pintype "passive") (tstamp d3d431ff-e10a-4bb5-9a2f-992e1e89e11a))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 4da8649f-b5e1-47de-9f39-8cd4dd6d7b6e)
     (at 71.041559 132.608344 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -1242,7 +1242,7 @@
       (net 36 "Net-(D33-Pad2)") (pinfunction "2") (pintype "passive") (tstamp ee1833c2-bb83-4e72-bcc3-dc462a03eac3))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 4dac52e9-b69e-4f9c-95b8-c8f8522ec8da)
     (at 85.737683 96.300302 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -1278,7 +1278,7 @@
       (net 15 "Net-(D13-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 3cc78ffb-7e74-4356-99a3-0b26b63039f2))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 515b402d-468d-4bc2-b6ba-31a550c82223)
     (at 76.330137 94.978157 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -1322,7 +1322,7 @@
       (net 15 "Net-(D13-Pad2)") (pinfunction "2") (pintype "passive") (tstamp bc501845-4b14-45b1-9983-47219a7f1fe7))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 536e4402-5476-4dfc-827f-4a45a2a00f3d)
     (at 92.500941 116.43754 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -1366,7 +1366,7 @@
       (net 27 "Net-(D24-Pad2)") (pinfunction "2") (pintype "passive") (tstamp f3fc6192-8869-4233-91cc-22d21b053937))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 5394fe46-3a12-4743-a6a8-55e7ea3ec8b0)
     (at 89.856652 135.252633 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -1410,7 +1410,7 @@
       (net 37 "Net-(D34-Pad2)") (pinfunction "2") (pintype "passive") (tstamp d9b4aec4-46ea-4ff9-8db6-691a9fba6196))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 55f6f4b3-e561-4667-8b28-39dd3037055a)
     (at 123.36787 101.58888 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -1446,7 +1446,7 @@
       (net 17 "Net-(D15-Pad2)") (pinfunction "A") (pintype "passive") (tstamp d6daeaed-68f1-4655-80c6-64d85f518d3f))
   )
 
-  (footprint "custom:Pi5-logo-outline" (layer "F.Cu")
+  (footprint "Pi5Footprints:Pi5-logo-outline" (layer "F.Cu")
     (tedit 0) (tstamp 5750a379-291b-4c74-a363-8d971d0db853)
     (at 142.761121 133.460098)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
@@ -4207,7 +4207,7 @@
     )
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 5a4f748a-b1e2-44a0-8f07-5732685d9436)
     (at 95.14523 97.622446 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4251,7 +4251,7 @@
       (net 16 "Net-(D14-Pad2)") (pinfunction "2") (pintype "passive") (tstamp ad6590ea-1c09-4f42-8980-1e72a369681f))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 5a5a415c-ec60-458a-8dcb-a392b2718d2c)
     (at 97.789519 78.807353 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4351,7 +4351,7 @@
     )
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 5d2cfd0a-148e-4256-ab37-ef193d93fdd4)
     (at 88.381972 77.485209 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4387,7 +4387,7 @@
       (net 4 "Net-(D3-Pad2)") (pinfunction "A") (pintype "passive") (tstamp ee56118f-2e94-4666-95f8-5b4e58f96563))
   )
 
-  (footprint "custom:Tact Switch (PTS815)" (layer "F.Cu")
+  (footprint "Pi5Footprints:Tact Switch (PTS815)" (layer "F.Cu")
     (tedit 0) (tstamp 5de06fa8-0fd9-4ad8-9524-868f580076c6)
     (at 147.3 139.75 -90)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4420,7 +4420,7 @@
       (net 74 "GND") (pinfunction "2") (pintype "passive") (tstamp 34af524a-b44c-4c6f-a683-e0df3322fa35))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 66f80b40-7213-4ddb-b9d9-790069fc2148)
     (at 116.604612 81.451642 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4464,7 +4464,7 @@
       (net 6 "Net-(D5-Pad2)") (pinfunction "2") (pintype "passive") (tstamp d332e83b-e904-4417-bb2b-e95d7f1e68d4))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 6b21d242-e435-4d2c-add5-eccf38cf7a35)
     (at 113.960323 100.266735 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4508,7 +4508,7 @@
       (net 17 "Net-(D15-Pad2)") (pinfunction "2") (pintype "passive") (tstamp f35b931b-dfd1-4dc1-af15-2184469cad9e))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 6c94149a-a0cc-44cb-b829-d1ef85f24bf1)
     (at 60.159332 73.518775 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4552,7 +4552,7 @@
       (net 3 "Net-(D2-Pad2)") (pinfunction "2") (pintype "passive") (tstamp e2c99101-1e60-4ede-b790-a5bf7c265f3c))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 6ccd5c04-491b-45a7-9cd2-29beca191ef9)
     (at 234.247808 72.19592 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4588,7 +4588,7 @@
       (net 11 "Net-(D10-Pad2)") (pinfunction "A") (pintype "passive") (tstamp d4f01e6d-6cf2-48da-bb52-2f0c2c73304c))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 6d74bb33-219d-49dc-a134-5f2a9d2558ff)
     (at 248.943933 108.503962 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4632,7 +4632,7 @@
       (net 33 "Net-(D30-Pad2)") (pinfunction "2") (pintype "passive") (tstamp be68f69a-877d-412f-9fae-cadcdc69a731))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 6dac70e6-1fa8-4d44-b38a-63eb55c16fd6)
     (at 50.751786 72.196631 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4668,7 +4668,7 @@
       (net 2 "Net-(D1-Pad2)") (pinfunction "A") (pintype "passive") (tstamp af4caee9-50c6-46b7-855e-f747a68e23fa))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 6e40224e-5c4a-47d1-8c73-fa36553e35f7)
     (at 196.617621 77.484498 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4704,7 +4704,7 @@
       (net 9 "Net-(D8-Pad2)") (pinfunction "A") (pintype "passive") (tstamp db1538af-8fbb-4ee9-8c18-d78c31fe41e6))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 70e68be7-0f64-4618-a347-667fe2f8470f)
     (at 211.313746 113.79254 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4748,7 +4748,7 @@
       (net 31 "Net-(D28-Pad2)") (pinfunction "2") (pintype "passive") (tstamp f3fc04c8-7beb-4432-ab52-40a93c5c8cdc))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 7b739ece-8050-4cc1-a884-6485580a293a)
     (at 78.974426 76.163064 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4792,7 +4792,7 @@
       (net 4 "Net-(D3-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 928abfa7-a6fe-410c-829b-413fd2017613))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 7e45b148-71d1-4692-9019-dc4b21b3815c)
     (at 187.210075 78.806642 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4836,7 +4836,7 @@
       (net 8 "Net-(D7-Pad2)") (pinfunction "2") (pintype "passive") (tstamp dbe30bf2-ab54-48d5-9ea3-e58dc494af59))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 7fbb3eca-9160-4633-8a88-a38734c629e7)
     (at 166.920302 139.218356 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4872,7 +4872,7 @@
       (net 39 "Net-(D36-Pad2)") (pinfunction "A") (pintype "passive") (tstamp b9f2c637-5a81-4889-9ae1-f00cc4628346))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 832de282-564c-4411-85af-8be8801f1665)
     (at 189.854364 97.621736 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4916,7 +4916,7 @@
       (net 19 "Net-(D17-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 48c2819f-b24f-49eb-a990-e973d40dc34e))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 8591058c-46a5-4473-b49d-094777021041)
     (at 243.655355 70.873776 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -4960,7 +4960,7 @@
       (net 11 "Net-(D10-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 78a9f233-23c5-439b-95cb-56fd398b7ab7))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 8962eb7f-24e1-4a9f-823e-464d8c2a7fab)
     (at 38.69995 89.68958 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5004,7 +5004,7 @@
       (net 13 "Net-(D11-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 8e142ce0-9a56-446d-a055-372bcc92fd6a))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 8aafea9d-ac70-47c2-b11e-06956788b6c2)
     (at 218.077004 93.655302 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5040,7 +5040,7 @@
       (net 21 "Net-(D19-Pad2)") (pinfunction "A") (pintype "passive") (tstamp eb67ae81-919a-4abf-ba34-571d07bd73d2))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 8ac61de0-a539-46c3-ae7e-e89d50c50e93)
     (at 111.316035 119.081829 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5084,7 +5084,7 @@
       (net 28 "Net-(D25-Pad2)") (pinfunction "2") (pintype "passive") (tstamp a6b15280-aace-4605-9a3a-3ea59f89d63b))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 90ad4263-19fd-4f5e-8a5f-4d8f01acb7b4)
     (at 48.107497 91.011724 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5120,7 +5120,7 @@
       (net 13 "Net-(D11-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 9e528d15-57e7-49a5-838c-69824aa3e4d4))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 947d3678-bcb9-42dd-bfa0-47ce6a077a5c)
     (at 66.92259 93.656013 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5156,7 +5156,7 @@
       (net 14 "Net-(D12-Pad2)") (pinfunction "A") (pintype "passive") (tstamp ed788ce2-6ea9-4a35-bbca-f1b86bd1f1ad))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 964fa6cc-8909-4b13-8b33-5180c19300a4)
     (at 251.588221 127.319056 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5200,7 +5200,7 @@
       (net 73 "Net-(D40-Pad2)") (pinfunction "2") (pintype "passive") (tstamp d311f46a-cd27-4388-880b-5d56d6c2a68e))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp 972eed27-18a5-49de-bef0-bdf66b293e8b)
     (at 33.411372 127.319766 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5244,7 +5244,7 @@
       (net 35 "Net-(D31-Pad2)") (pinfunction "2") (pintype "passive") (tstamp fe5bd070-12e5-4530-9cde-9b44233e91c6))
   )
 
-  (footprint "custom:PiPico" (layer "F.Cu")
+  (footprint "Pi5Footprints:PiPico" (layer "F.Cu")
     (tedit 0) (tstamp 9ac889cc-6431-4491-89ee-783f7f5be91c)
     (at 142.5 99)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5469,7 +5469,7 @@
     (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 1329f680-debb-4a5a-b8a2-df2e449d619a) (hatch edge 0.508)
       (connect_pads (clearance 0))
       (min_thickness 0.254)
-      (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed ) (copperpour not_allowed) (footprints allowed))
+      (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed) (copperpour not_allowed) (footprints allowed))
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
@@ -5483,7 +5483,7 @@
     (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 75df3028-5b6e-42a4-9e65-8d175b5b761b) (hatch edge 0.508)
       (connect_pads (clearance 0))
       (min_thickness 0.254)
-      (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed ) (copperpour not_allowed) (footprints allowed))
+      (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed) (copperpour not_allowed) (footprints allowed))
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
@@ -5496,7 +5496,7 @@
     )
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 9c135220-ac48-4a23-a674-0007b73d7926)
     (at 215.432715 74.840209 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5532,7 +5532,7 @@
       (net 10 "Net-(D9-Pad2)") (pinfunction "A") (pintype "passive") (tstamp ff722e9d-6bd7-4c99-88e6-e8dc767bbb1c))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp 9e897836-7d83-4465-b221-da805bbcb7d7)
     (at 161.631724 101.588169 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5568,7 +5568,7 @@
       (net 18 "Net-(D16-Pad2)") (pinfunction "A") (pintype "passive") (tstamp d61aaa3b-6634-4148-b675-b70e5d448b08))
   )
 
-  (footprint "custom:PiPico-Mounting" (layer "F.Cu")
+  (footprint "Pi5Footprints:PiPico-Mounting" (layer "F.Cu")
     (tedit 0) (tstamp a1a954b2-fcfa-461d-8683-2b24cbb7c471)
     (at 142.5 99)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5597,7 +5597,7 @@
       (solder_mask_margin 0.2) (clearance 0.2) (tstamp ae5315df-39bf-4b04-954e-18a0ffec23c1))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp a4c15e10-603e-4afd-b6d0-2a15170598a0)
     (at 73.685848 113.793251 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5641,7 +5641,7 @@
       (net 26 "Net-(D23-Pad2)") (pinfunction "2") (pintype "passive") (tstamp f338586a-adde-40f6-8296-425ca6d9ba0a))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp acdb0661-047d-4b0f-89f3-77b1fbce4150)
     (at 107.197066 80.129498 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5677,7 +5677,7 @@
       (net 5 "Net-(D4-Pad2)") (pinfunction "A") (pintype "passive") (tstamp d9ae4e39-bb83-4fb2-92af-84eaa593630d))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp ae39b298-bd2d-4194-a8cf-573e48c216a1)
     (at 183.091106 117.758974 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5713,7 +5713,7 @@
       (net 30 "Net-(D27-Pad2)") (pinfunction "A") (pintype "passive") (tstamp d9028748-8a2c-48ae-9355-bc0fa5e0eba3))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp b80d0b9e-411f-480e-872a-3c955395eb5b)
     (at 54.870755 111.148962 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5757,7 +5757,7 @@
       (net 25 "Net-(D22-Pad2)") (pinfunction "2") (pintype "passive") (tstamp a376e4e1-68be-4984-94fc-762bcf726049))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp bc114bd0-2406-4128-9def-26aeaefe5bba)
     (at 64.278301 112.471106 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5793,7 +5793,7 @@
       (net 25 "Net-(D22-Pad2)") (pinfunction "A") (pintype "passive") (tstamp dde1e73a-4690-40eb-a493-a042221320d4))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp bc46857f-8987-4158-a659-dc5b715760d4)
     (at 224.840261 73.518065 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5837,7 +5837,7 @@
       (net 10 "Net-(D9-Pad2)") (pinfunction "2") (pintype "passive") (tstamp f44ad42c-1de2-45e0-99d7-00ccfe65a178))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp bd9a8e65-4420-47d3-98a8-55bbec269253)
     (at 195.142942 135.251922 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5932,7 +5932,7 @@
     )
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp c364bfb7-6848-4796-a2ce-26e4b36ef5b6)
     (at 192.498653 116.436829 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -5976,7 +5976,7 @@
       (net 30 "Net-(D27-Pad2)") (pinfunction "2") (pintype "passive") (tstamp c6258c7c-44b3-401a-acc6-e35e760af444))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp c9ea4a9c-6750-4f33-b98e-59936b583229)
     (at 171.03927 100.266025 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -6020,7 +6020,7 @@
       (net 18 "Net-(D16-Pad2)") (pinfunction "2") (pintype "passive") (tstamp e2949fac-3976-449b-a8af-76415205fb9f))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp cb4a3532-4c85-4119-9b63-8b9738b59465)
     (at 126.012159 82.773786 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -6056,7 +6056,7 @@
       (net 6 "Net-(D5-Pad2)") (pinfunction "A") (pintype "passive") (tstamp f5194f30-081f-4737-8619-8dbeafa6a125))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp ccbfb8d3-7c3c-4a00-87d4-7f1a131cab4f)
     (at 36.055661 108.504673 -8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -6100,7 +6100,7 @@
       (net 24 "Net-(D21-Pad2)") (pinfunction "2") (pintype "passive") (tstamp da8ceca2-34a2-4303-883e-9020ec816b7e))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp cf1b3391-59eb-4c38-adde-c8d2dab61bd0)
     (at 173.683559 119.081118 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -6144,7 +6144,7 @@
       (net 29 "Net-(D26-Pad2)") (pinfunction "2") (pintype "passive") (tstamp bfeefffd-de3f-4bad-8b86-d74a690a8c9f))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp d1c9156b-0afe-4558-a74e-7c427738a28e)
     (at 158.987435 82.773076 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -6180,7 +6180,7 @@
       (net 7 "Net-(D6-Pad2)") (pinfunction "A") (pintype "passive") (tstamp ea969f98-cd22-487c-aac9-0847ad4abad3))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp d4b80695-0930-4450-855a-be3d0a11e9fe)
     (at 204.550488 133.929778 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -6216,7 +6216,7 @@
       (net 41 "Net-(D38-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 97851374-897d-4e55-a483-54ce7242946d))
   )
 
-  (footprint "custom:Low Profile GC plus MX" (layer "F.Cu")
+  (footprint "Pi5Footprints:Low Profile GC plus MX" (layer "F.Cu")
     (tedit 0) (tstamp da0c5358-07aa-45ec-8036-e2a02c1586bd)
     (at 176.327848 137.896211 8)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -6260,7 +6260,7 @@
       (net 39 "Net-(D36-Pad2)") (pinfunction "2") (pintype "passive") (tstamp d17efb2a-adf7-4879-a640-add0cf68f28f))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp ed54d5e2-b20d-405d-af5c-38132b7742c2)
     (at 239.536386 109.826107 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -6296,7 +6296,7 @@
       (net 33 "Net-(D30-Pad2)") (pinfunction "A") (pintype "passive") (tstamp e30b30e1-7f11-405e-96da-aab6d79a2a8f))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp f2d190fe-82c6-487c-91ba-cb8e17c9d91f)
     (at 104.552777 98.944591 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -6332,7 +6332,7 @@
       (net 16 "Net-(D14-Pad2)") (pinfunction "A") (pintype "passive") (tstamp ccbe6e83-4e58-4edc-94f5-3bcbc6c356ff))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp f2ef51c7-b739-4fc9-bff8-d296376d2168)
     (at 69.566879 74.84092 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -6368,7 +6368,7 @@
       (net 3 "Net-(D2-Pad2)") (pinfunction "A") (pintype "passive") (tstamp f08cd819-587f-4736-8779-f9a7b823eb75))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp f3377b93-add7-4657-a7b3-32cf1d452f76)
     (at 164.276013 120.403262 -82)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -6404,7 +6404,7 @@
       (net 29 "Net-(D26-Pad2)") (pinfunction "A") (pintype "passive") (tstamp e1ef2620-aaea-4df7-99f5-10f1343e133a))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp fcc402b7-11ae-4370-935a-9555eec33abc)
     (at 45.463208 109.826817 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
@@ -6440,7 +6440,7 @@
       (net 24 "Net-(D21-Pad2)") (pinfunction "A") (pintype "passive") (tstamp dc979a14-8a9d-4b78-8d5d-01ad4a17da30))
   )
 
-  (footprint "custom:Multi-diode" (layer "F.Cu")
+  (footprint "Pi5Footprints:Multi-diode" (layer "F.Cu")
     (tedit 0) (tstamp ff36ed4e-0261-4b6a-9f89-f5e25dba97c9)
     (at 42.818919 128.641911 -98)
     (property "Sheetfile" "Pi5-pcb.kicad_sch")
