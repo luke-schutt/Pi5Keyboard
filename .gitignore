@@ -2,6 +2,7 @@
 
 .*.swp
 
+wip/*
 *-backups
 fp-info-cache
 *.gbr
